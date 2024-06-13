@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Why BHU</name>
+   <tag></tag>
+   <elementGuidId>054a6375-bba2-4279-b8c1-c037ee120107</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Tab4687']/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Why BHU?&quot;] > span.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Why BHU?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>242121ad-a10f-4028-8929-214dc1d2b9f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>trustAsHtml(menu.MenuName)</value>
+      <webElementGuid>bd5267fa-c111-4a2a-9d38-38335d2977ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>080825c5-9dda-44bd-b56e-50cbab5d0c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Why BHU?</value>
+      <webElementGuid>53168dcd-2539-4d8e-8029-b18f6c289f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Tab4687&quot;)/li[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope ng-empty&quot;]/a[1]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>9fb8b08f-5724-40b3-9ead-ab76f2582157</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Tab4687']/li/a/span</value>
+      <webElementGuid>ac6d7ee1-a0e8-4cb7-b704-b4f76dea20f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruiters'])[1]/following::span[1]</value>
+      <webElementGuid>d69a6766-d57d-47b9-a9ab-b8b4cf8ccead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BHU &amp; Its Alumni'])[1]/following::span[3]</value>
+      <webElementGuid>e9fa7c5d-ca9e-4044-87ee-193555b422d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Overview'])[1]/preceding::span[1]</value>
+      <webElementGuid>36d1517b-6b1c-4c07-9845-d080af17ca0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calendar'])[1]/preceding::span[2]</value>
+      <webElementGuid>1f4afc18-18b4-422f-9700-2cd90da44db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Why BHU?']/parent::*</value>
+      <webElementGuid>8ffccc65-6bf8-4ba1-bff8-c4ba68c9ce92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a/span</value>
+      <webElementGuid>7553e63a-af65-4be7-9d69-29fb758e97e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Why BHU?' or . = 'Why BHU?')]</value>
+      <webElementGuid>1ee6ceb5-d29c-4491-b7ca-f9e5f03e27ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vice Chancellor</name>
+   <tag></tag>
+   <elementGuidId>ec1b8e66-4451-4b55-a830-378ce1e72e6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Tab35']/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Vice Chancellor&quot;] > span.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Vice Chancellor&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c5468486-d8a9-4b57-8add-278f3b894ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>trustAsHtml(menu.MenuName)</value>
+      <webElementGuid>8a9bc762-efa9-4944-82af-7c9c2da601dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>dbf07974-7595-4e93-9484-3a82b015ff2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vice Chancellor</value>
+      <webElementGuid>acf731d3-2217-40d5-8831-f8c0187a1607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Tab35&quot;)/li[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope ng-empty&quot;]/a[1]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>71e61beb-4450-462e-bfdd-1b279338ced0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Tab35']/li[3]/a/span</value>
+      <webElementGuid>cb2eccc8-5fbe-4f33-98cd-c554612c6431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chancellor'])[1]/following::span[1]</value>
+      <webElementGuid>570c3b1d-0ff3-4b4f-b069-d395821e787e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visitor'])[1]/following::span[2]</value>
+      <webElementGuid>70547187-3730-48d0-a30a-093e90681dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rector'])[1]/preceding::span[1]</value>
+      <webElementGuid>402bc2b9-bac2-49f9-b80c-44589d7dc56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrar'])[1]/preceding::span[2]</value>
+      <webElementGuid>168e4b90-70bd-4f09-bf98-d45d047e7505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vice Chancellor']/parent::*</value>
+      <webElementGuid>2fac2189-06d6-47ca-a508-9b52c877a9ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[3]/a/span</value>
+      <webElementGuid>baa57284-d4a7-4783-82b5-3dbbe8d7f694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vice Chancellor' or . = 'Vice Chancellor')]</value>
+      <webElementGuid>c7a16fc8-8c6c-441f-8974-fe3f01a1c76a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

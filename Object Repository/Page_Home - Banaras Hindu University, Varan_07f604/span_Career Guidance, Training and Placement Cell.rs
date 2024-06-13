@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Career Guidance, Training and Placement Cell</name>
+   <tag></tag>
+   <elementGuidId>7543a67a-6e0e-42dc-ac62-c3bf073cb887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Tab4681']/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Career Guidance, Training and Placement Cell&quot;] > span.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Career Guidance, Training and Placement Cell&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13a1a729-08a3-4a02-abb0-18b549220b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>trustAsHtml(menu.MenuName)</value>
+      <webElementGuid>13d758af-1fbd-433b-8eef-f4f8d9f65d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>0fab9703-e93d-4867-9400-931d9674d50e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Career Guidance, Training and Placement Cell</value>
+      <webElementGuid>2213666b-14e9-426f-9811-57b09b4ef24d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Tab4681&quot;)/li[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope ng-empty&quot;]/a[1]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>145b7181-39f1-4b37-bcad-9de9446b6add</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Tab4681']/li/a/span</value>
+      <webElementGuid>90504425-b3ff-4c02-80cd-a03be7b47cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Amenities'])[1]/following::span[1]</value>
+      <webElementGuid>6c9def09-5505-4f91-b1bc-32f62875edce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grants and Scholarships'])[1]/following::span[4]</value>
+      <webElementGuid>57ba0adb-23be-4985-95f8-049c18816774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Wellness Cell'])[1]/preceding::span[1]</value>
+      <webElementGuid>2ec84f29-2fe1-4f6d-b6af-53cd9185f0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='University Sports Boards'])[1]/preceding::span[2]</value>
+      <webElementGuid>7ff94e10-c8a0-422e-a920-fa3533dd9cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Career Guidance, Training and Placement Cell']/parent::*</value>
+      <webElementGuid>0e69eab2-aca8-4784-9722-df6faba96d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li/a/span</value>
+      <webElementGuid>33666efa-f021-40c9-9afb-66f0412c0ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Career Guidance, Training and Placement Cell' or . = 'Career Guidance, Training and Placement Cell')]</value>
+      <webElementGuid>6743f92b-5b98-4a51-b056-6c9460bffafa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

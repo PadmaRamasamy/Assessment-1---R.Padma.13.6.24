@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rules  Guidelines</name>
+   <tag></tag>
+   <elementGuidId>f00b62a3-0bd5-46d1-95fd-d4d375daef99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Tab6396']/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Rules &amp;amp; Guidelines&quot;] > span.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Rules &amp; Guidelines&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>420732a2-d700-45e2-89b8-27b4deb9a693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>trustAsHtml(menu.MenuName)</value>
+      <webElementGuid>00b835c2-e42f-4152-9aee-db5eda6b909d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>1596445a-f7b5-4d00-84aa-a65a1ba3317c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rules &amp; Guidelines</value>
+      <webElementGuid>58492b78-d877-44c4-9412-7cb3703a0db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Tab6396&quot;)/li[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope ng-empty&quot;]/a[1]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>008adc51-f5d7-4d93-8929-af632ca4fb41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Tab6396']/li[2]/a/span</value>
+      <webElementGuid>4a60545a-87ca-4c2d-b463-01b12b76a909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Registration'])[1]/following::span[1]</value>
+      <webElementGuid>2900cbac-a9bc-4fcf-9561-261c54bb171e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Students'])[1]/following::span[2]</value>
+      <webElementGuid>fb91830f-ffcd-4a8c-ae2c-fde32a7e6741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Life @ Campus'])[1]/preceding::span[1]</value>
+      <webElementGuid>a5f0e077-789b-4633-a8f5-4839ea76f39e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upcoming Drive'])[1]/preceding::span[2]</value>
+      <webElementGuid>34754adb-0bc2-4ead-b512-d3324d3b1f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rules &amp; Guidelines']/parent::*</value>
+      <webElementGuid>dc2cdee2-1003-415c-8265-648c2e058d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/a/span</value>
+      <webElementGuid>7c4dfc9b-c70f-416b-b1f0-02f8230545e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rules &amp; Guidelines' or . = 'Rules &amp; Guidelines')]</value>
+      <webElementGuid>35603d9e-d2de-4230-af5a-2d2d4c2e06f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
